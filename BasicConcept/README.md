@@ -1,13 +1,4 @@
 # Java Concept
-
-## Introduction
-Hi Shannon, thank you for the opportunity to speak with you. My name is Angela Huang, and I'm currently a Software Engineer at Propersys Corporation in Phoenix. In my role, I’ve worked across full-stack and backend development, leading impactful projects in TypeScript API development, automated data validation, and database optimization. Previously, I was a software engineer at Synnex Technology, where I developed full-stack in-house technical and financial systems using Java, Spring Boot, and Oracle Database to streamline logistics automation, improving system efficiency by 25%.
-
-I’m passionate about building scalable, secure solutions—an area I know is at the core of PayPal’s approach to payment technologies. I’m excited to learn more about how I can contribute to the Issuance and Tokenization team.
-
-## Familiarity with Java
-Yes, I’m quite familiar with Java. I’ve used it in various projects involving backend development.
-
 ### Key Features of Java
 - **Object-Oriented**: Everything in Java is an object, which helps with modularity and reuse.
 - **Platform-Independent**: Thanks to the JVM, Java code can run on any platform. The Java Virtual Machine (JVM) is a virtual machine that allows Java programs to run on various operating systems and platforms. It acts as an interpreter between the Java programming language and the underlying hardware.
