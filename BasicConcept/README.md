@@ -1,4 +1,4 @@
-# Java Interview Preparation
+# Java Concept
 
 ## Introduction
 Hi Shannon, thank you for the opportunity to speak with you. My name is Angela Huang, and I'm currently a Software Engineer at Propersys Corporation in Phoenix. In my role, I’ve worked across full-stack and backend development, leading impactful projects in TypeScript API development, automated data validation, and database optimization. Previously, I was a software engineer at Synnex Technology, where I developed full-stack in-house technical and financial systems using Java, Spring Boot, and Oracle Database to streamline logistics automation, improving system efficiency by 25%.
