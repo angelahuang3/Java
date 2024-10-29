@@ -26,7 +26,7 @@ Benefits:
 
 ---
 
-## 2. Asynchronous Processing with Messaging Queues
+## Asynchronous Processing with Messaging Queues
 
 Asynchronous processing is essential for handling high transaction volumes:
 - **Spring’s `@Async` Annotation**: Allows for non-blocking processing of high-frequency tasks.
@@ -38,7 +38,7 @@ Benefits:
 
 ---
 
-## 3. Database Optimization and Caching
+## Database Optimization and Caching
 
 Optimize database interactions to handle large transaction volumes:
 - **Connection Pooling with HikariCP**: Integrated with Spring Boot for efficient and high-speed database connections.
@@ -51,7 +51,7 @@ Benefits:
 
 ---
 
-## 4. Load Balancing and Distributed Systems
+## Load Balancing and Distributed Systems
 
 Distribute transaction loads across multiple servers:
 - **Spring Cloud Load Balancer**: For load distribution within the Spring ecosystem.
@@ -64,7 +64,7 @@ Benefits:
 
 ---
 
-## 5. Distributed Transaction Management
+## Distributed Transaction Management
 
 Ensure consistency across distributed transactions:
 - **Spring’s `@Transactional` Annotation**: For managing smaller transactions within a single service.
@@ -77,7 +77,7 @@ Benefits:
 
 ---
 
-## 6. Monitoring and Logging
+## Monitoring and Logging
 
 Monitor system performance and transaction volumes in real-time:
 - **ELK Stack (Elasticsearch, Logstash, Kibana)**: For log aggregation, search, and visualization of transaction trends.
