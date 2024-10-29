@@ -172,7 +172,7 @@ public class Main {
   - **GET**: Retrieves data from a server.
   - **POST**: Sends data to the server, often used for creating resources.
   - **Other methods** include `PUT` (update), `DELETE` (delete), `PATCH`, etc.
-- **RESTful APIs**: RESTful APIs are an architectural style for creating web services. They use HTTP methods and follow specific principles, like statelessness and resource-based URIs, to enable standardized and scalable web communication.
+- **RESTful APIs**: RESTful APIs are an architectural style for creating web services. They use HTTP methods and follow specific principles, like `statelessness` and `resource-based URIs`, to enable standardized and scalable web communication.
 
 - **Statelessness**: Each client request must contain all necessary information since the server does not store session data between requests. This enables easier scaling and reliability, allowing any server in a cluster to handle any request independently.
 
