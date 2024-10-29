@@ -14,7 +14,7 @@ This document outlines tools and strategies to manage high transaction volumes i
 
 ---
 
-## 1. Microservices Architecture with Spring
+## Microservices Architecture with Spring
 
 Utilize Spring Boot and Spring Cloud to structure the application into smaller, independent microservices:
 - **Spring Boot**: Enables quick creation of independent microservices.
